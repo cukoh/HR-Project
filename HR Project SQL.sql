@@ -185,4 +185,3 @@ ORDER BY year ASC;
  WHERE termdate <= curdate() AND termdate<> '0000-00-00' AND age >=18
  GROUP by department;
  
- -- Delete last two items along with this
