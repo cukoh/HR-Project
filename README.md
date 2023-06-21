@@ -43,4 +43,4 @@
 # Limitations
 * Some records had negative ages and these were excluded during querying (967 records). Ages used we 18 years and above
 
-* Some termdates were far into the future and were not cluded in the analysis(1599). The only term dates used were those less than or equal to the current date.
+* Some termdates were far into the future and were not cluded in the analysis (1599 records). The only term dates used were those less than or equal to the current date.
