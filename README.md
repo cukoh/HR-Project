@@ -1,4 +1,4 @@
-# HR Projects
+# HR Demographic Project
 ![HR Screenshot](https://github.com/cukoh/HR-Project/assets/136646603/80c97a88-b129-40a6-b974-6b6a8c66a9a4)
 -------
 # Data Used
